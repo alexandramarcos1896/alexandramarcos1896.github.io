@@ -24,9 +24,9 @@ author:
   avatar           : "bunny.jpg"
   name             : "Alexandra Marcos"
   pronouns         : # example: "she/her"  
-  bio              : "Peruvian economist working on the intersection of cutting-edge technology and policies to improve the provision of the public services."
+  bio              : "Peruvian economist working on the intersection of cutting-edge technologies and policies to improve the provision of the public services."
   location         : "Lima, Peru"
-  employer         : "Columbia University in the city of New York"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "alexandra.marcos@pucp.edu.pe" 
 
