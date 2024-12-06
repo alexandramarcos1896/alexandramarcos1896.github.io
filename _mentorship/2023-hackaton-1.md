@@ -1,8 +1,8 @@
 ---
 title: "Disruption in Liabilities"
-collection: mentoring
+collection: mentorship
 # type: "Undergraduate course"
-permalink: /mentoring/2023-hackaton-1
+permalink: /mentorship/2023-hackaton-1
 venue: "Pontificia Universidad Catolica del Peru"
 date: 2023-10-21
 location: "Lima, Peru"
