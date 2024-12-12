@@ -10,7 +10,7 @@ location: "Lima, Peru"
 
 I had the privilege of mentoring the “Technology and Transparency” Hackathon at PUCP, an initiative aimed at tackling corruption in local governments through innovative technological solutions. Organized by PUCP’s Center for Innovation and Entrepreneurial Development (CIDE), this event empowered students to promote transparency and integrity in public administration, fostering real-world impact and meaningful change.
 
-# Mentoring the Hackathon: "Technology and Transparency" at PUCP  
+## Mentoring the Hackathon: ["Technology and Transparency"](https://cide.pucp.edu.pe/tecnologia-y-transparencia-estudiantes-de-la-pucp-proponen-soluciones-innovadoras-para-combatir-la-corrupcion-local/) at PUCP  
 
 As part of my role as a mentor at the Maker Lab, I had the incredible opportunity to guide students through the **“Technology and Transparency” Hackathon**, a groundbreaking initiative aimed at combating corruption in local governments. This hackathon, organized by PUCP, challenged participants to develop innovative solutions to promote transparency and integrity in public administration using technology.
 
@@ -56,5 +56,4 @@ Corruption is one of the biggest obstacles to equitable development and trust in
 
 The **“Technology and Transparency” Hackathon** is a shining example of how collaboration between academia, industry, and civil society can drive meaningful change. It was inspiring to witness the enthusiasm and dedication of the participants as they tackled some of the most complex issues in governance.  
 
-## Looking Ahead  
-The solutions developed in this hackathon have the potential to make a lasting impact by promoting transparency and accountability in local governance. As a mentor, I am proud to contribute to this movement and to guide talented individuals in creating tools that can foster trust, integrity, and development in our communities.
+![Hackaton](../images/hackaton_corruption.png)
