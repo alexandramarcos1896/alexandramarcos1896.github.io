@@ -32,8 +32,8 @@ The hackathon is designed to not only generate creative, viable solutions but al
 ## Target Audience
 This hackathon is open to undergraduate and graduate students from Pontificia Universidad Católica del Perú (PUCP). The event calls on students with a passion for interdisciplinary work, collaboration, and solving real-world problems. Students who are eager to dive into innovation, technology, and social entrepreneurship are encouraged to participate. This is an excellent opportunity for them to apply their academic knowledge to create practical, life-changing solutions for Peru’s entrepreneurial community.
 
-# Winner
+## Winner
 ["Ahorrando Juntas"](https://cide.pucp.edu.pe/ahorrando-juntas-la-aplicacion-que-premia-a-las-emprendedoras-peruanas-por-lograr-sus-metas-financieras/)
 
 
-![title](images/hackaton.png)
+![Hackaton](../images/hackaton.png)
