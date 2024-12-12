@@ -8,6 +8,8 @@ date: 2023-10-21
 location: "Lima, Peru"
 ---
 
+The Innova & Business Fest Hackathon, in collaboration with Mibanco, focused on transforming the future of microfinancing for entrepreneurs. Guided by the Maker Lab, this event tackled critical challenges in transactions and savings, aiming to innovate solutions that enhance financial literacy and empower underserved communities. Participants worked on designing practical tools to make financial systems more accessible and impactful for entrepreneurs in Latin America.
+
 # Innova & Business Fest Hackathon: ["Disruption in Liabilities"](https://emprende.pucp.edu.pe/reto/mibanco/) with Mibanco
 
 As part of my ongoing mentorship role at the Maker Lab, I’ve had the privilege of guiding talented students through one of the most impactful hackathons aimed at transforming the future of microfinancing. This hackathon is in collaboration with Mibanco, the second-largest microfinance bank in the world and the leader in the Latin American region.
