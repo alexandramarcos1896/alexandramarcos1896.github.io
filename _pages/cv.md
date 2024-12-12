@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to view the PDF](../files/CV___Academic_STANFORD.pdf)
+
 ## Education
 
 ### **Pontificia Universidad Católica del Perú (PUCP)** | Lima, Peru  
