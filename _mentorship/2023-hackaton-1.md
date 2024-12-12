@@ -8,7 +8,7 @@ date: 2023-10-21
 location: "Lima, Peru"
 ---
 
-# Innova & Business Fest Hackathon: "Disruption in Liabilities" with Mibanco
+# Innova & Business Fest Hackathon: ["Disruption in Liabilities"](https://emprende.pucp.edu.pe/reto/mibanco/) with Mibanco
 
 As part of my ongoing mentorship role at the Maker Lab, I’ve had the privilege of guiding talented students through one of the most impactful hackathons aimed at transforming the future of microfinancing. This hackathon is in collaboration with Mibanco, the second-largest microfinance bank in the world and the leader in the Latin American region.
 
@@ -32,12 +32,8 @@ The hackathon is designed to not only generate creative, viable solutions but al
 ## Target Audience
 This hackathon is open to undergraduate and graduate students from Pontificia Universidad Católica del Perú (PUCP). The event calls on students with a passion for interdisciplinary work, collaboration, and solving real-world problems. Students who are eager to dive into innovation, technology, and social entrepreneurship are encouraged to participate. This is an excellent opportunity for them to apply their academic knowledge to create practical, life-changing solutions for Peru’s entrepreneurial community.
 
-## Hackathon Process
-Participants are provided with a brief of the hackathon created by Mibanco, where they will be able to access essential information regarding the target users, the specific problems they face, and the tools available to help them. The goal is to develop comprehensive and innovative solutions using technology to improve the transaction experience and savings behavior among entrepreneurs.
+# Winner
+["Ahorrando Juntas"](https://cide.pucp.edu.pe/ahorrando-juntas-la-aplicacion-que-premia-a-las-emprendedoras-peruanas-por-lograr-sus-metas-financieras/)
 
-Additionally, experts from Mibanco will share updated information on the main challenges during virtual workshops. These workshops are designed to enhance participants’ understanding of the problem space and inspire them to create feasible, scalable, and impactful solutions.
 
-## Why This Hackathon Matters
-In an increasingly digital world, it’s essential that financial institutions rethink how they provide services to underserved communities. By mentoring this hackathon, I’ve seen firsthand how innovative solutions, when nurtured in the right environment, can help transform entire industries. I’m proud to be part of a movement that encourages the next generation of leaders to focus on financial inclusion, innovation, and social impact.
-
-This hackathon represents more than just a competition — it’s an opportunity for students to get hands-on experience, work with industry experts, and contribute to shaping a more inclusive and accessible financial ecosystem. Through this experience, participants not only grow their technical skills but also gain a deeper appreciation for the social implications of financial products and services.
+![title](images/hackaton.png)
