@@ -56,4 +56,4 @@ Corruption is one of the biggest obstacles to equitable development and trust in
 
 The **“Technology and Transparency” Hackathon** is a shining example of how collaboration between academia, industry, and civil society can drive meaningful change. It was inspiring to witness the enthusiasm and dedication of the participants as they tackled some of the most complex issues in governance.  
 
-![Hackaton](../images/hackaton_corruption.png)
+![Hackaton2](../images/hackaton_corruption.jpeg)
