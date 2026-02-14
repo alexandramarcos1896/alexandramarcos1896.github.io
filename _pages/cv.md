@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view the PDF](../files/CV___Academic_STANFORD.pdf)
+[Click here to view the PDF](../files/CV___Professional_2025-4-5.pdf)
 
 ## Education
 
@@ -117,9 +117,8 @@ GPA: 4.33/5.00
 ## Relevant Skills
 
 **Technical Skills:**  
-- **Programming:** R, Python, SQL, Stata, C, JavaScript, HTML/CSS  
-- **Data Science Tools:** Docker, Jupyter, Tableau, PowerBI  
-- **Machine Learning:** Feature engineering, NLP, predictive modeling  
+- **Programming:** R, Python, and SQL
+- **Data Science Tools:** Docker and PowerBI   
 
 **Languages:**  
 - Spanish (Native)  
