@@ -1,6 +1,6 @@
 items:
   - date: "Languages"
-    detail: "Python, R, SQL, Git"
+    detail: "Python, R, SQL (PostgreSQL)"
     badges: ["Programming"]
 
   - date: "ML & Data Science"
