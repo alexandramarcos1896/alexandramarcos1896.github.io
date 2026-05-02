@@ -1,0 +1,42 @@
+papers:
+  - title: "Mapping Illegal Economies: Forest Loss and Nighttime Lights as Proxies for Economic Activity in the Peruvian Amazon"
+    summary: "A geospatial panel model (2014–2024) using GEOBOSQUES forest data and VIIRS satellite night-light intensity across 15 Peruvian Amazon regions. Applied random-effects regression with clustered standard errors to estimate the relationship between formal economic activity and deforestation driven by illegal mining and narcotrafficking."
+    image: "/images/gis.png"
+    date: "2025-12-01"
+    links:
+      - label: "PDF"
+        url: "#"
+      - label: "Code"
+        url: "#"
+
+  - title: "BreakingBureau: Analyzing Immigration News Coverage Against U.S. Labor and Financial Markets"
+    summary: "An interactive NLP pipeline ingesting 526,264 immigration-related news articles (GDELT) and correlating tone and volume trends against BLS labor data and Yahoo Finance. Built spike detection, media source treemaps, and sentiment heatmaps."
+    image: "/images/breakingbureau.png"
+    date: "2026-03-01"
+    links:
+      - label: "Code"
+        url: "https://github.com/uchicago-2026-capp30122/project-breaking_bureau"
+
+  - title: "DSToolkit: An R Package for Credit Risk Modeling"
+    summary: "A fully documented R package implementing a production-grade credit risk pipeline including Weight of Evidence encoding, Information Value feature selection, Gini-based model evaluation, and robust discretization. Used across banking and government ML projects."
+    image: "/images/dstoolkit.png"
+    date: "2023-01-01"
+    links:
+      - label: "Code"
+        url: "https://github.com/Mirkiux/DSToolkit"
+
+  - title: "covidPeru: An R Library for COVID-19 Epidemiological Analysis in Peru"
+    summary: "Open-source R library developed with Prof. José Incio (University of Pittsburgh) that automatically downloads and processes 200K+ row government datasets daily. Estimates regional virus spread rates using a SIRD epidemiological model to inform resource allocation decisions."
+    image: "/images/covidperu.png"
+    date: "2020-10-01"
+    links:
+      - label: "Code"
+        url: "https://github.com/jincio/covidPeru"
+
+  - title: "Textual Analysis of BCRP Inflation Reports"
+    summary: "Built a text corpus from 59 quarterly BCRP Inflation Reports (2002–2018) applying stop-word removal, TF-IDF weighting, and Structural Topic Modeling to identify 20 latent topics and visualize word frequency trends across economic cycles."
+    image: "/images/bcrp.png"
+    date: "2021-11-01"
+    links:
+      - label: "PDF"
+        url: "#"

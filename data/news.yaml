@@ -1,0 +1,22 @@
+items:
+  - date: "Languages"
+    detail: "Python, R, SQL, Git"
+    badges: ["Programming"]
+
+  - date: "ML & Data Science"
+    detail: "scikit-learn, NLP, text embeddings, supervised classification"
+    badges: ["Machine Learning"]
+
+  - date: "Methods"
+    detail: "Causal inference, Panel econometrics, RCT design, Geospatial analysis"
+    badges: ["Econometrics"]
+
+  - date: "Visualization"
+    detail: "ggplot2, Streamlit, Altair, R Markdown"
+    badges: ["Tools"]
+
+  - date: "Policy & Government"
+    detail: "Public budget programming, Government data systems, Stakeholder communication"
+    badges: ["Public Sector"]
+  
+  # --- Hidden initially ---

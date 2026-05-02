@@ -1,0 +1,34 @@
+{{ $profile := site.Data.profile }}
+<header class="hero section-block">
+  {{ $profileImage := strings.TrimPrefix "/" $profile.profile_image }}
+  <div class="hero-media">
+    <img src="{{ $profileImage | relURL }}" alt="{{ $profile.name }} portrait" loading="lazy">
+  </div>
+  <div id="{{ or .Section `hero` }}" class="hero-copy">
+    {{ $name := partial "utils/enrich-text.html" $profile.name | markdownify }}
+    <h1>{{ $name | safeHTML }}</h1>
+    <p class="meta">
+      {{ partial "utils/enrich-text.html" $profile.title | markdownify | safeHTML }}<br>
+      <span class="meta-affiliation">{{ partial "utils/enrich-text.html" $profile.affiliation | markdownify | safeHTML }}</span>
+    </p>
+    <div class="summary">{{ partial "utils/enrich-text.html" $profile.summary | markdownify | safeHTML }}</div>
+    {{ with $profile.highlights_title }}
+      <div class="highlights-title">{{ . }}</div>
+    {{ end }}
+    <ul class="highlight-list">
+      {{ range $profile.highlights }}
+        <li>{{ partial "utils/enrich-text.html" . | markdownify | safeHTML }}</li>
+      {{ end }}
+    </ul>
+    <div class="hero-links">
+      {{ range $profile.links }}
+        {{ $link := or .link .url }}
+        {{ if and (hasPrefix $link "/") (not (hasPrefix $link "//")) }}
+          <a href="{{ $link | relURL }}" class="text-link">{{ .label }}</a>
+        {{ else }}
+          <a href="{{ $link | safeURL }}" class="text-link" target="_blank" rel="noopener">{{ .label }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</header>

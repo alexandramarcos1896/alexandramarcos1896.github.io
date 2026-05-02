@@ -1,0 +1,24 @@
+name: "Alexandra Marcos"
+title: "Computational Social Scientist & Economist"
+affiliation: "M.S. Candidate, Computational Analysis and Public Policy — University of Chicago"
+summary: >
+  I am passionate about building <mark>machine learning systems</mark> that improve 
+  the efficiency of public services. Trained as an economist at PUCP and now 
+  pursuing computational policy at <mark>UChicago Harris</mark>, I bring together 
+  economic theory and applied ML to tackle real institutional challenges — from 
+  building predictive models for Peru's General Auditor to forecasting public 
+  revenues for the Ministry of Economics and Finances. My work sits at the frontier 
+  where <mark>data science meets public policy</mark>, always oriented toward 
+  actionable, government-ready insight.
+profile_image: "images/profile.png"
+highlights:
+  - "Machine Learning for Public Policy"
+  - "Econometrics & Causal Inference"
+  - "Data Pipelines & Government Analytics"
+links:
+  - label: "Github"
+    url: "https://github.com/alexandramarcos1896"
+  - label: "Linkedin"
+    url: "https://www.linkedin.com/in/alexandra-carolina-marcos/"
+  - label: "Email"
+    url: "mailto:alexandramarcos1@uchicago.edu"

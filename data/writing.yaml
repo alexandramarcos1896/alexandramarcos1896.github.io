@@ -1,0 +1,5 @@
+sparks:
+  - title: "Study Notes"
+    description: "Notes on math, code and policy."
+    image: "/images/cover.jpg"
+    link: "/study/"
